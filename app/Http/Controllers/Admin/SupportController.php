@@ -54,7 +54,7 @@ class SupportController extends Controller
     {
         if (!$support = $this->service->findOne($id)) {
             return back();
-        }
+        }b 
 
         return view('admin.supports.edit', compact('support'));
 
