@@ -1,7 +1,22 @@
 
-# Setup Docker Laravel 10 com PHP 8.1
+# 🐳 Setup Docker para Laravel 10 com PHP 8.1  
 
-### Passo a passo
+Este repositório contém um ambiente pré-configurado para rodar **Laravel 10** com **PHP 8.1** utilizando **Docker** e **Docker Compose**.  
+
+## 🚀 Tecnologias utilizadas  
+- **Laravel 10**  
+- **PHP 8.1**  
+- **Docker**  
+- **Docker Compose**  
+- **MySQL/PostgreSQL** *(opcional, conforme configuração)*  
+- **Nginx/Apache** *(dependendo da configuração escolhida)*  
+
+## 📌 Pré-requisitos  
+Antes de iniciar, certifique-se de ter instalado:  
+- [Docker](https://www.docker.com/)  
+- [Docker Compose](https://docs.docker.com/compose/)  
+
+## ⚡ Como usar  
 Clone Repositório
 ```sh
 git clone https://github.com/devluciano/curso-laravel-10.git
